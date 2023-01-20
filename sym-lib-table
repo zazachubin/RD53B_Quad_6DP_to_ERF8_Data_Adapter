@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "ERF8-050-01-X-D-EM2-TR")(type "KiCad")(uri "${KIPRJMOD}/Library/ERF8-050-01-X-D-EM2-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "47272-0024")(type "Legacy")(uri "${KIPRJMOD}/Library/47272-0024.lib")(options "")(descr ""))
+  (lib (name "Atlas_Itk_logo")(type "KiCad")(uri "${KIPRJMOD}/Library/Atlas_Itk_logo.kicad_sym")(options "")(descr ""))
+)
