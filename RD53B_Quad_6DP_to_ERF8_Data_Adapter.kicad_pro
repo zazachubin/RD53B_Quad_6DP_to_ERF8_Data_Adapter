@@ -56,7 +56,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "lib_footprint_issues|180661000|45141000|f20352d7-a86d-4801-82de-0bd4715afc24|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_issues|180661000|69141000|d20a54b1-2f4d-41e5-b2aa-9d156020841c|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_issues|28656000|45141000|9c693f8b-34b8-4dda-ac34-890fcf9fa23a|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_issues|28656000|69141000|0615c1e4-11cd-40e5-a090-36d221581878|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -98,8 +103,8 @@
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
-        "text_height": "warning",
-        "text_thickness": "warning",
+        "text_height": "ignore",
+        "text_thickness": "ignore",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
         "track_dangling": "warning",
@@ -484,7 +489,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "../../../../../Desktop/",
     "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
