@@ -60,7 +60,13 @@
         "lib_footprint_issues|180661000|45141000|f20352d7-a86d-4801-82de-0bd4715afc24|00000000-0000-0000-0000-000000000000",
         "lib_footprint_issues|180661000|69141000|d20a54b1-2f4d-41e5-b2aa-9d156020841c|00000000-0000-0000-0000-000000000000",
         "lib_footprint_issues|28656000|45141000|9c693f8b-34b8-4dda-ac34-890fcf9fa23a|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|28656000|69141000|0615c1e4-11cd-40e5-a090-36d221581878|00000000-0000-0000-0000-000000000000"
+        "lib_footprint_issues|28656000|69141000|0615c1e4-11cd-40e5-a090-36d221581878|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|116275000|64271000|0b7fb974-34a4-4b7d-8767-9a86310ca4af|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|140173000|64271000|b1e00b65-0af6-4553-96aa-3244f264b19c|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|164071000|64271000|63c36a10-64a9-49f2-a5b2-e669a2025164|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|44581000|64271000|ec4f61cd-41fe-4ad4-b622-38ec33b4205e|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|68477000|64270000|120f94de-4bcb-4007-93f7-f29eab472891|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|92377000|64271000|c527ab88-2515-4e95-880d-2e4682ed64e2|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
         "version": 2
@@ -489,7 +495,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "../../../../../Desktop/",
+    "plot_directory": "Docs/Images/",
     "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
