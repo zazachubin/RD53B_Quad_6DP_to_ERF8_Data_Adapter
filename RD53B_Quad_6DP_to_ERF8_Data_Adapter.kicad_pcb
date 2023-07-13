@@ -60,8 +60,8 @@
     (pad_to_mask_clearance 0)
     (aux_axis_origin 24.543 72.476)
     (pcbplotparams
-      (layerselection 0x003d0fc_ffffffff)
-      (plot_on_all_layers_selection 0x0001000_00000000)
+      (layerselection 0x003ffff_ffffffff)
+      (plot_on_all_layers_selection 0x0000000_00000000)
       (disableapertmacros false)
       (usegerberextensions false)
       (usegerberattributes true)
@@ -91,7 +91,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "Production/")
+      (outputdirectory "Production/Single_Board_Gerber/")
     )
   )
 
