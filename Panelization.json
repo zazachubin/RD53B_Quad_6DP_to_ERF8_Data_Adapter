@@ -1,11 +1,11 @@
 {
     "layout": {
-        "alternation": "rows",
-        "rows": "2",
+        "rows": "4",
         "cols": "2"
     },
     "cuts": {
-        "type": "vcuts"
+        "type": "vcuts",
+        "layer": "Edge.Cuts"
     },
     "framing": {
         "type": "railslr",
