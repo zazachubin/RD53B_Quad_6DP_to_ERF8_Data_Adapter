@@ -1,0 +1,61 @@
+### Footprint positions - created on Thu Jul 13 12:22:32 2023 ###
+### Printed by KiCad version (7.0.0)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref       Val                   Package                    PosX       PosY       Rot  Side
+C7          0.1uF                 C_0805_2012Metric      172.7900   -26.1700  -90.0000  bottom
+C7          0.1uF                 C_0805_2012Metric      152.2100   -30.8300   90.0000  bottom
+C7          0.1uF                 C_0805_2012Metric      312.2100   -30.8300   90.0000  bottom
+C7          0.1uF                 C_0805_2012Metric       12.7900   -26.1700  -90.0000  bottom
+C8          0.1uF                 C_0805_2012Metric      196.6270   -26.1700  -90.0000  bottom
+C8          0.1uF                 C_0805_2012Metric      288.3730   -30.8300   90.0000  bottom
+C8          0.1uF                 C_0805_2012Metric      128.3730   -30.8300   90.0000  bottom
+C8          0.1uF                 C_0805_2012Metric       36.6270   -26.1700  -90.0000  bottom
+C9          0.1uF                 C_0805_2012Metric      104.4140   -30.8300   90.0000  bottom
+C9          0.1uF                 C_0805_2012Metric      264.4140   -30.8300   90.0000  bottom
+C9          0.1uF                 C_0805_2012Metric       60.5860   -26.1700  -90.0000  bottom
+C9          0.1uF                 C_0805_2012Metric      220.5860   -26.1700  -90.0000  bottom
+C10         0.1uF                 C_0805_2012Metric      263.9840   -26.1700  -90.0000  bottom
+C10         0.1uF                 C_0805_2012Metric       61.0160   -30.8300   90.0000  bottom
+C10         0.1uF                 C_0805_2012Metric      103.9840   -26.1700  -90.0000  bottom
+C10         0.1uF                 C_0805_2012Metric      221.0160   -30.8300   90.0000  bottom
+C11         0.1uF                 C_0805_2012Metric      197.1180   -30.8300   90.0000  bottom
+C11         0.1uF                 C_0805_2012Metric      287.8820   -26.1700  -90.0000  bottom
+C11         0.1uF                 C_0805_2012Metric       37.1180   -30.8300   90.0000  bottom
+C11         0.1uF                 C_0805_2012Metric      127.8820   -26.1700  -90.0000  bottom
+C12         0.1uF                 C_0805_2012Metric       13.2200   -30.8300   90.0000  bottom
+C12         0.1uF                 C_0805_2012Metric      173.2200   -30.8300   90.0000  bottom
+C12         0.1uF                 C_0805_2012Metric      311.7800   -26.1700  -90.0000  bottom
+C12         0.1uF                 C_0805_2012Metric      151.7800   -26.1700  -90.0000  bottom
+R1          10k                   R_0805_2012Metric       15.7900   -26.1700  -90.0000  bottom
+R1          10k                   R_0805_2012Metric      149.2100   -30.8300   90.0000  bottom
+R1          10k                   R_0805_2012Metric      309.2100   -30.8300   90.0000  bottom
+R1          10k                   R_0805_2012Metric      175.7900   -26.1700  -90.0000  bottom
+R2          10k                   R_0805_2012Metric      285.3140   -30.8300   90.0000  bottom
+R2          10k                   R_0805_2012Metric       39.6860   -26.1700  -90.0000  bottom
+R2          10k                   R_0805_2012Metric      199.6860   -26.1700  -90.0000  bottom
+R2          10k                   R_0805_2012Metric      125.3140   -30.8300   90.0000  bottom
+R3          10k                   R_0805_2012Metric      261.4140   -30.8300   90.0000  bottom
+R3          10k                   R_0805_2012Metric       63.5860   -26.1700  -90.0000  bottom
+R3          10k                   R_0805_2012Metric      223.5860   -26.1700  -90.0000  bottom
+R3          10k                   R_0805_2012Metric      101.4140   -30.8300   90.0000  bottom
+R4          10k                   R_0805_2012Metric      260.9840   -26.1700  -90.0000  bottom
+R4          10k                   R_0805_2012Metric      224.0160   -30.8300   90.0000  bottom
+R4          10k                   R_0805_2012Metric      100.9840   -26.1700  -90.0000  bottom
+R4          10k                   R_0805_2012Metric       64.0160   -30.8300   90.0000  bottom
+R5          10k                   R_0805_2012Metric      284.8820   -26.1700  -90.0000  bottom
+R5          10k                   R_0805_2012Metric      200.1180   -30.8300   90.0000  bottom
+R5          10k                   R_0805_2012Metric      124.8820   -26.1700  -90.0000  bottom
+R5          10k                   R_0805_2012Metric       40.1180   -30.8300   90.0000  bottom
+R6          10k                   R_0805_2012Metric      176.2200   -30.8300   90.0000  bottom
+R6          10k                   R_0805_2012Metric      308.7800   -26.1700  -90.0000  bottom
+R6          10k                   R_0805_2012Metric       16.2200   -30.8300   90.0000  bottom
+R6          10k                   R_0805_2012Metric      148.7800   -26.1700  -90.0000  bottom
+REF**       Fiducial              Fiducial                 0.0000     0.0000    0.0000  bottom
+REF**       Fiducial              Fiducial                 0.0000   -57.0000    0.0000  bottom
+REF**       Fiducial              Fiducial               325.0000     0.0000    0.0000  bottom
+REF_Bottom  Fiducial_1mm_Mask2mm  Fiducial_1mm_Mask2mm   321.0110   -30.0190    0.0000  bottom
+REF_Bottom  Fiducial_1mm_Mask2mm  Fiducial_1mm_Mask2mm   161.0110   -30.0190    0.0000  bottom
+REF_Bottom  Fiducial_1mm_Mask2mm  Fiducial_1mm_Mask2mm     3.9890   -26.9810  180.0000  bottom
+REF_Bottom  Fiducial_1mm_Mask2mm  Fiducial_1mm_Mask2mm   163.9890   -26.9810  180.0000  bottom
+## End
