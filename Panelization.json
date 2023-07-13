@@ -1,0 +1,29 @@
+{
+    "layout": {
+        "alternation": "rows",
+        "rows": "2",
+        "cols": "2"
+    },
+    "cuts": {
+        "type": "vcuts"
+    },
+    "framing": {
+        "type": "railslr",
+        "hspace": "0mm"
+    },
+    "fiducials": {
+        "type": "3fid",
+        "hoffset": "2.5mm",
+        "voffset": "2.5mm",
+        "opening": "2mm",
+        "paste": "True"
+    },
+    "copperfill": {
+        "type": "solid"
+    },
+    "page": {
+        "type": "A3",
+        "anchor": "c",
+        "posy": "150mm"
+    }
+}
