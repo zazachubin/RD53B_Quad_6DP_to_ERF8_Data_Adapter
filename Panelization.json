@@ -8,8 +8,9 @@
         "layer": "Edge.Cuts"
     },
     "framing": {
-        "type": "railslr",
-        "hspace": "0mm"
+        "type": "frame",
+        "hspace": "0mm",
+        "vspace": "0mm"
     },
     "fiducials": {
         "type": "3fid",

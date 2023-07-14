@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,(7.0.0)*%
-%TF.CreationDate,2023-07-13T16:08:18+02:00*%
+%TF.CreationDate,2023-07-14T10:40:59+02:00*%
 %TF.ProjectId,RD53B_Quad_6DP_to_ERF8_Data_Adapter,52443533-425f-4517-9561-645f3644505f,V1*%
 %TF.SameCoordinates,PX1767f18PY451e560*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (7.0.0)) date 2023-07-13 16:08:18*
+G04 Created by KiCad (PCBNEW (7.0.0)) date 2023-07-14 10:40:59*
 %MOMM*%
 %LPD*%
 G01*
@@ -260,6 +260,10 @@ X107380000Y5185000D03*
 X123880000Y5185000D03*
 D14*
 X123880000Y11965000D03*
+%TD*%
+D19*
+%TO.C,REF_Top*%
+X158433000Y29538000D03*
 %TD*%
 D12*
 %TO.C,J3*%

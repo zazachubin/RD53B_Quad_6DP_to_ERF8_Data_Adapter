@@ -1,4 +1,4 @@
-### Footprint positions - created on Thu Jul 13 16:09:26 2023 ###
+### Footprint positions - created on Fri Jul 14 10:41:27 2023 ###
 ### Printed by KiCad version (7.0.0)
 ## Unit = mm, Angle = deg.
 ## Side : bottom
@@ -15,5 +15,6 @@ R3          10k                   R_0805_2012Metric       61.0840     2.3350  -9
 R4          10k                   R_0805_2012Metric       98.4820     2.3350  -90.0000  bottom
 R5          10k                   R_0805_2012Metric      122.3800     2.3350  -90.0000  bottom
 R6          10k                   R_0805_2012Metric      146.2780     2.3350  -90.0000  bottom
+REF_Bottom  Fiducial_1mm_Mask2mm  Fiducial_1mm_Mask2mm   158.4340    29.5380  180.0000  bottom
 REF_Bottom  Fiducial_1mm_Mask2mm  Fiducial_1mm_Mask2mm     1.4870     1.5240  180.0000  bottom
 ## End
