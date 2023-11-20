@@ -456,7 +456,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "RD53B_Quad_6DP_to_ERF8_Data_Adapter.step",
+      "step": "Docs/Design/3D_PCB/RD53B_Quad_6DP_to_ERF8_Data_Adapter.step",
       "vrml": "../../../../../Desktop/RD53B_Quad_6DP_to_ERF8_Data_Adapter.wrl"
     },
     "page_layout_descr_file": ""
